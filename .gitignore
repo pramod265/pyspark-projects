@@ -3,3 +3,5 @@ spark-3.4-bigquery-0.36.1.jar
 .idea/
 checkpoint/
 checkpoint
+output_data/
+spark-stream-test/
